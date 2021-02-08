@@ -4,7 +4,7 @@ import (
 	"container/list"
 	"errors"
 
-	"github.com/cache-implementation/src/cache"
+	"github.com/cache/src/cache"
 )
 
 type ValueData struct {

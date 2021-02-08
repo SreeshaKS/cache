@@ -1,8 +1,8 @@
 package src
 
 import (
-	"github.com/cache-implementation/src/cacheImpl"
-	"github.com/cache-implementation/src/manager"
+	"github.com/cache/src/cacheImpl"
+	"github.com/cache/src/manager"
 )
 
 type Service struct {

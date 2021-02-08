@@ -3,7 +3,7 @@ package cacheImpl
 import (
 	"sync"
 
-	"github.com/cache-implementation/src/cache"
+	"github.com/cache/src/cache"
 )
 
 type CacheDAO struct {

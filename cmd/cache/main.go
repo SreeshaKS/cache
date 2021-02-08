@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/cache-implementation/src"
+	"github.com/cache/src"
 )
 
 func main() {
